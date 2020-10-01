@@ -1,4 +1,4 @@
-class 'go-live' < Formula
+class GoLive < Formula
   desc "go-live is a portable Go utility that serves files, HTML or otherwise, over HTTP."
   homepage "https://antsankov.gitbook.io/go-live/"
   version "1.0.0"
