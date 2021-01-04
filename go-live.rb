@@ -6,7 +6,7 @@ class GoLive < Formula
 
   if OS.mac?
     url "https://github.com/antsankov/go-live/releases/download/v1.0.0/go-live-mac.zip"
-    sha256 "4910c9f40933fe0706c9e94767c60b7e8141aaac857d4c67cd2c7041955954e1"
+    sha256 "ad0006359ef040a0027f5206cc2398260dc869b3134017ab72776e2b8977d04c"
   elsif OS.linux?
   end
 
